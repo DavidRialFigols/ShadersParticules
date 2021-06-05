@@ -1,0 +1,2 @@
+brobject,-1,-1,0,1.5,://resources/models/sphere0.obj,://resources/textures/bricks.png,indirect,0.2,0.2,0.2,0.0,1.0,1.0,0.1,0.1,0.1,20.0
+brobject,2,1,0,1.5,://resources/models/armadillo.obj,://resources/textures/bricks.png,indirect,0.2,0.2,0.2,0.0,1.0,1.0,0.1,0.1,0.1,20.0

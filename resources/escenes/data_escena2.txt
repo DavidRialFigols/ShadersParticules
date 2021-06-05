@@ -1,0 +1,1 @@
+brobject,0,0,-1,0.5,://resources/models/sphere1.obj,NULL,indirect

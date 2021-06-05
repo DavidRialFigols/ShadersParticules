@@ -1,0 +1,6 @@
+dataType,VIRTUALWORLD
+limitsMonReal, -1, 1, -1, 1, -1, 1
+limitsMonVirtual, -1, 1, -1, 1, -1, 1
+globalLight,0.2,0.2,0.2
+light,directionalLight,0.2,0.2,0.2,0.7,0.7,0.7,1.0,1.0,1.0,-1.0,0.0,0.0
+toonDirection,-1,-1,0

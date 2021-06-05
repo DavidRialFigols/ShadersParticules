@@ -1,0 +1,5 @@
+dataType,VIRTUALWORLD
+limitsMonReal, -1, 1, -1, 1, -1, 1
+limitsMonVirtual, -1, 1, -1, 1, -1, 1
+globalLight,0.8,0.8,0.8
+light,pointLight,0.2,0.2,0.2,0.9,0.9,0.9,1.0,1.0,1.0,0,0,0,-1,-1,2.6

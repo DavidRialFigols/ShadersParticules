@@ -1,0 +1,7 @@
+dataType,REALDATA
+limitsMonVirtual, -15, 15, 0, 5, -15, 15
+limitsMonReal, -15, 15, -15, 15
+globalLight,0.2,0.2,0.2
+light,directionalLight,0.2,0.2,0.2,0.7,0.7,0.7,1.0,1.0,1.0,-1.0,0.0,0.0
+base,plane, 0.0, 1.0, 0.0, 0.5, 0.3, 0.3, 0.3, 0.8, 0.1, 0.1, 1.0, 1.0, 1.0, 100.0,://resources/textures/2k_earth_daymap.jpg,direct
+prop, 1, 0, 5,brobject,://resources/models/sphere0.obj,COLOR_MAP_TYPE_INFERNO,NULL,indirect

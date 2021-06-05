@@ -1,0 +1,4 @@
+dataType,VIRTUALWORLD
+limitsMonReal, -1, 1, -1, 1, -1, 1
+limitsMonVirtual, -1, 1, -1, 1, -1, 1
+toonDirection,-1,-1,-1

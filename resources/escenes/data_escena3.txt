@@ -1,0 +1,2 @@
+brobject,1,0,0,1.5,://resources/models/MonkeyTex.obj,NULL,direct
+brobject,3,1,0,1.5,://resources/models/capsule.obj,NULL,direct
